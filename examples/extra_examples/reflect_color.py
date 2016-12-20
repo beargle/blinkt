@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import argparse
+import time
 
 from envirophat import light
 from blinkt import set_all, show
